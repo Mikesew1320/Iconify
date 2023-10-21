@@ -13,8 +13,10 @@ import com.drdisagree.iconify.ui.activities.Onboarding;
 import com.drdisagree.iconify.utils.ModuleUtil;
 import com.drdisagree.iconify.utils.RootUtil;
 import com.drdisagree.iconify.utils.SystemUtil;
-import com.google.android.material.color.DynamicColors;
+import com.google.android.material.color.DynamicColors
 import com.topjohnwu.superuser.Shell;
+
+//Done by cgggg
 
 @SuppressLint("CustomSplashScreen")
 public class SplashActivity extends AppCompatActivity {
